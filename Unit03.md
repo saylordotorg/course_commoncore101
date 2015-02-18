@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Common Core 101"
+course_description: "Common Core 101 aims to provide educators with an overview of the Common Core State Standards; top resources for developing content; and the main benchmarks for ensuring that a K-12 course is compliant with new state standards. After a push by the National Governor’s Association in 2009, common core standards have been adopted by 45 states (and 3 territories) with some state assessments slated to begin in 2014-2015. This is a non-credit professional development module."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Developing Content That Is Aligned With The Common Core State
 Standards** <span id="3"></span> 
 *The main purpose of the Common Core State Standards is to provide a
